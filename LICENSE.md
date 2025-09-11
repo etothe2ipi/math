@@ -1,0 +1,1 @@
+All materials in this repository are available under a Creative Commons, CC-4.0-BY-SA license. More information about this license can be found at https://creativecommons.org/licenses/by-sa/4.0/deed.en. By contributing to this repository (i.e., submitting a pull request), you are committing to your work being submitted under this same license.
